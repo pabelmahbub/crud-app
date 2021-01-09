@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.form{
+  display: flex;
+  flex-direction:column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  font-weight: 600;
+  font-size: 22px;
+}
+.form input{
+  width: 250px;
+  height: 50px;
+  margin: 10px;
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  
+}
